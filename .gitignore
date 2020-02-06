@@ -229,3 +229,7 @@ gradle-app.setting
 
 # Cache of project
 .gradletasknamecache
+
+# Mojang mappings
+server.txt
+client.txt
